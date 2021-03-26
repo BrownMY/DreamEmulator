@@ -1,0 +1,2 @@
+# ItzABot
+First bot practice.
